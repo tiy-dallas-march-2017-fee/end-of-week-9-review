@@ -9,3 +9,12 @@
 git remote add origin https://github.com/tiy-dallas-march-2017-fee/end-of-week-9-review.git
 git push -u origin master
 ```
+
+## So, You Want To Use Redux?
+
+* `npm install redux --save`
+* Create a file for the store/redux stuff.
+
+## A Picture!
+
+![Redux Image](counter-redux.png)
