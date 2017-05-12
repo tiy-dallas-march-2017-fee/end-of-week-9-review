@@ -4,7 +4,7 @@ import Header from './Header.js';
 import Footer from './Footer.js';
 import BoringComponent from './BoringComponent.js';
 import Counter from './Counter.js';
-
+import TodoList from './TodoList.js';
 
 
 class App extends Component {
@@ -16,6 +16,8 @@ class App extends Component {
         <BoringComponent />
 
         <Counter />
+
+        <TodoList />
 
         <Footer />
       </div>
